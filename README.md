@@ -1,4 +1,4 @@
 # Latihan-1
 
-Berisi program-program latihanmata kuliah Pemrograman Lanjut pada pertemuan 2 Kamis 18 Maret 2021.
+Berisi program-program latihan matakuliah Pemrograman Lanjut pada pertemuan 2 Kamis 18 Maret 2021.
 - Della Novia Ramadhan | UIN Syarif Hidayatullah Jakarta
