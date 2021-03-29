@@ -8,6 +8,7 @@ Latihan-1 : pada pertemuan 2 Kamis 18 Maret 2021.
 - Halo
 - Mahasiswa Matematika
 
-Latihan-2 : pada pertemuan 3 
+Latihan-2 : pada pertemuan 18
+- Tugas-2
 
 Della Novia Ramadhan | UIN Syarif Hidayatullah Jakarta
