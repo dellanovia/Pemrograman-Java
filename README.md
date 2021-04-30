@@ -16,5 +16,8 @@ Latihan-3 : pada pertemuan 5 | Kamis, 8 April 2021
 
 Latihan-4 : pada pertemuan 6 | Kamis, 15 April 2021
 - AplikasiPertambahanDuaAngka
+
+Latihan-5 : pada pertemuan 8 | Kamis, 29 April 2021
+- PenghitungJumlahHari
  
 Della Novia Ramadhan | UIN Syarif Hidayatullah Jakarta
