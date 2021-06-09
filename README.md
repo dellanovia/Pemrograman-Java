@@ -26,4 +26,7 @@ Latihan-6 : pada pertemuan 9 | Kamis, 6 Mei 2021
 Latihan-7 : pada pertemuan 10 | Kamis, 27 Mei 2021
 - TugasLoginForm
 
+Latihan-8 : pada pertemuan 11 | Kamis, 3 Juni 2021
+- Tugas_PengolahanDataKategori
+
 Della Novia Ramadhan | UIN Syarif Hidayatullah Jakarta
