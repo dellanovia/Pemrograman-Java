@@ -21,7 +21,7 @@ Latihan-5 : pada pertemuan 8 | Kamis, 29 April 2021
 - PenghitungJumlahHari
  
 Latihan-6 : pada pertemuan 9 | Kamis, 6 Mei 2021
-- PenghitungJumlahHari
+- TampilGambar
  
 Latihan-7 : pada pertemuan 10 | Kamis, 27 Mei 2021
 - TugasLoginForm
